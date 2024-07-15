@@ -1,0 +1,22 @@
+= 0.2.3 [2018-05-16]
+- Add licence information to Gemspec.
+
+= 0.2.2 [2017-01-11]
+- Fix for incorrect encoding of leading-zeroes. Thanks to @joelnordell.
+
+= 0.2.1 [2017-01-08]
+- Bitcoin-style leading-zeroes encoding. Thanks to @joelnordell.
+
+= 0.2.0 [2017-01-05]
+- Bitcoin and Ripple alphabet support. Thanks to @joelnordell.
+- Binary encoding and decoding support. Thanks to @joelnordell.
+
+= 0.1.0 [2010-02-05]
+- Better argument checking. Thanks to @jimeh.
+- Add `encode` and `decode` aliases.
+
+= 0.0.4 [2009-11-27]
+- Gracefully deals with bad input. Thanks to @isnotvalid.
+
+= 0.0.3 [2009-11-05]
+- Initial release.
