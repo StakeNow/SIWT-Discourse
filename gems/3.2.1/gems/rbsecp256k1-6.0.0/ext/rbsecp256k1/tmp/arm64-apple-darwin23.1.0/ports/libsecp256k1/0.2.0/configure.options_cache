@@ -1,0 +1,1 @@
+["--host=arm64-apple-darwin23.1.0", "--enable-static", "--disable-shared", "--with-pic=yes", "--enable-module-recovery", "--prefix=/Users/royscheeren/Projects/discourse-v3.2.2/plugins/discourse-siwt/gems/3.2.1/gems/rbsecp256k1-6.0.0/ext/rbsecp256k1/ports/arm64-apple-darwin23.1.0/libsecp256k1/0.2.0"]
