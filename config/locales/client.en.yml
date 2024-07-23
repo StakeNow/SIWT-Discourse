@@ -5,7 +5,7 @@
 
 en:
   site_settings:
-    discourse_siwt_enabled: "Either the plugin is enabled or not"
+    discourse_siwt_enabled: "Whether the plugin is enabled or not"
     discourse_siwt_statement: "Statement that will be displayed in the message"
 
   js:
